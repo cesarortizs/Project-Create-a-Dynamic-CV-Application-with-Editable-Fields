@@ -1,0 +1,23 @@
+.cvFormContainer
+{
+    background-color: #cdcdcd;
+    padding: 2rem;
+}
+
+.cvForm
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.section
+{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem 0;
+}
+
+.section *
+{
+    margin: 0.5rem 0;
+}

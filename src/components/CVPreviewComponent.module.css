@@ -1,0 +1,11 @@
+.livePreview
+{
+    background-color: #efefef;
+    padding: 2rem;
+}
+
+.section
+{
+    display: flex;
+    flex-direction: column;
+}
